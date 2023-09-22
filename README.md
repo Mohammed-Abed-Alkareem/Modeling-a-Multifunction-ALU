@@ -1,5 +1,5 @@
 # Modeling-a-Multifunction-ALU
-implementation of a multifunction arithmetic and logic unit (ALU)
+implementation of a multifunction arithmetic and logic unit (ALU) using Verilog HDL
 
 
 # Specifications
